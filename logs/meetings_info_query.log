@@ -1,0 +1,302 @@
+2026-01-07 10:45:23,739 - INFO - Starting companies info quering
+2026-01-07 10:45:23,739 - INFO - Loading input file: data/company_info.csv
+2026-01-07 10:45:24,184 - INFO - Total rows in input CSV: 10
+2026-01-07 10:45:26,214 - INFO - Scraping completed
+2026-01-07 10:45:26,214 - INFO - Total processed: 20
+2026-01-07 10:45:26,214 - INFO - Skipped (already exist): 0
+2026-01-07 10:45:26,214 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-07 10:46:28,267 - INFO - Starting companies info quering
+2026-01-07 10:46:28,267 - INFO - Loading input file: data/company_info.csv
+2026-01-07 10:46:28,592 - INFO - Total rows in input CSV: 145487
+2026-01-07 10:46:28,617 - INFO - Loaded existing data with 157 records
+2026-01-07 10:53:30,052 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-07 10:53:30,052 - INFO - Scraping completed
+2026-01-07 10:53:30,067 - INFO - Total processed: 4384
+2026-01-07 10:53:30,067 - INFO - Skipped (already exist): 77
+2026-01-07 10:53:30,067 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-08 08:02:08,827 - INFO - Starting companies info quering
+2026-01-08 08:02:08,827 - INFO - Loading input file: data/company_info.csv
+2026-01-08 08:02:09,191 - INFO - Total rows in input CSV: 145487
+2026-01-08 08:02:09,360 - INFO - Loaded existing data with 21272 records
+2026-01-08 08:19:10,372 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-08 08:19:10,372 - INFO - Scraping completed
+2026-01-08 08:19:10,372 - INFO - Total processed: 12231
+2026-01-08 08:19:10,372 - INFO - Skipped (already exist): 2230
+2026-01-08 08:19:10,372 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-09 07:43:09,983 - INFO - Starting companies info quering
+2026-01-09 07:43:09,983 - INFO - Loading input file: data/company_info.csv
+2026-01-09 07:43:10,762 - INFO - Total rows in input CSV: 145487
+2026-01-09 07:43:11,511 - INFO - Loaded existing data with 73738 records
+2026-01-09 13:30:48,885 - INFO - Starting companies info quering
+2026-01-09 13:30:48,885 - INFO - Loading input file: data/company_info.csv
+2026-01-09 13:30:49,287 - INFO - Total rows in input CSV: 145487
+2026-01-09 13:30:49,808 - INFO - Loaded existing data with 119702 records
+2026-01-09 13:33:19,782 - INFO - Starting companies info quering
+2026-01-09 13:33:19,782 - INFO - Loading input file: data/company_info.csv
+2026-01-09 13:33:20,177 - INFO - Total rows in input CSV: 145487
+2026-01-09 13:33:20,684 - INFO - Loaded existing data with 122396 records
+2026-01-09 13:34:18,551 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-09 13:34:18,551 - INFO - Scraping completed
+2026-01-09 13:34:18,551 - INFO - Total processed: 12508
+2026-01-09 13:34:18,551 - INFO - Skipped (already exist): 11949
+2026-01-09 13:34:18,551 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-10 07:40:48,160 - INFO - Starting companies info quering
+2026-01-10 07:40:48,160 - INFO - Loading input file: data/company_info.csv
+2026-01-10 07:40:48,511 - INFO - Total rows in input CSV: 145487
+2026-01-10 07:40:49,064 - INFO - Loaded existing data with 125653 records
+2026-01-10 07:58:13,241 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-10 07:58:13,241 - INFO - Scraping completed
+2026-01-10 07:58:13,241 - INFO - Total processed: 22229
+2026-01-10 07:58:13,241 - INFO - Skipped (already exist): 12228
+2026-01-10 07:58:13,241 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-11 09:47:55,368 - INFO - Starting companies info quering
+2026-01-11 09:47:55,368 - INFO - Loading input file: data/company_info.csv
+2026-01-11 09:47:55,756 - INFO - Total rows in input CSV: 145487
+2026-01-11 09:47:56,676 - INFO - Loaded existing data with 177632 records
+2026-01-11 10:06:53,403 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-11 10:06:53,404 - INFO - Scraping completed
+2026-01-11 10:06:53,404 - INFO - Total processed: 27229
+2026-01-11 10:06:53,405 - INFO - Skipped (already exist): 17228
+2026-01-11 10:06:53,405 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-12 08:13:05,878 - INFO - Starting companies info quering
+2026-01-12 08:13:05,880 - INFO - Loading input file: data/company_info.csv
+2026-01-12 08:13:06,334 - INFO - Total rows in input CSV: 145487
+2026-01-12 08:13:07,667 - INFO - Loaded existing data with 228810 records
+2026-01-12 08:32:12,242 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-12 08:32:12,242 - INFO - Scraping completed
+2026-01-12 08:32:12,242 - INFO - Total processed: 32229
+2026-01-12 08:32:12,242 - INFO - Skipped (already exist): 22228
+2026-01-12 08:32:12,242 - INFO - Failed: 0, company names saved to data/failed_meetings.csv
+2026-01-13 16:50:55,092 - INFO - Starting companies info quering
+2026-01-13 16:50:55,092 - INFO - Loading input file: data/company_info.csv
+2026-01-13 16:50:55,463 - INFO - Total rows in input CSV: 145487
+2026-01-13 16:50:56,673 - INFO - Loaded existing data with 276249 records
+2026-01-13 17:10:42,761 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-13 17:10:42,761 - INFO - Scraping completed
+2026-01-13 17:10:42,761 - INFO - Total processed: 37229
+2026-01-13 17:10:42,761 - INFO - Skipped (already exist): 27228
+2026-01-13 17:10:42,761 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-14 07:59:39,052 - INFO - Starting companies info quering
+2026-01-14 07:59:39,055 - INFO - Loading input file: data/company_info.csv
+2026-01-14 07:59:39,477 - INFO - Total rows in input CSV: 145487
+2026-01-14 07:59:40,969 - INFO - Loaded existing data with 325049 records
+2026-01-14 08:20:19,956 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-14 08:20:19,956 - INFO - Scraping completed
+2026-01-14 08:20:19,956 - INFO - Total processed: 42229
+2026-01-14 08:20:19,956 - INFO - Skipped (already exist): 32228
+2026-01-14 08:20:19,956 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-15 08:35:52,148 - INFO - Starting companies info quering
+2026-01-15 08:35:52,148 - INFO - Loading input file: data/company_info.csv
+2026-01-15 08:35:52,540 - INFO - Total rows in input CSV: 145487
+2026-01-15 08:35:54,373 - INFO - Loaded existing data with 374607 records
+2026-01-15 08:57:18,083 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-15 08:57:18,083 - INFO - Scraping completed
+2026-01-15 08:57:18,083 - INFO - Total processed: 47231
+2026-01-15 08:57:18,083 - INFO - Skipped (already exist): 37230
+2026-01-15 08:57:18,083 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-16 07:58:40,488 - INFO - Starting companies info quering
+2026-01-16 07:58:40,488 - INFO - Loading input file: data/company_info.csv
+2026-01-16 07:58:40,861 - INFO - Total rows in input CSV: 145487
+2026-01-16 07:58:42,721 - INFO - Loaded existing data with 424142 records
+2026-01-16 08:20:36,252 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-16 08:20:36,252 - INFO - Scraping completed
+2026-01-16 08:20:36,252 - INFO - Total processed: 52791
+2026-01-16 08:20:36,252 - INFO - Skipped (already exist): 42790
+2026-01-16 08:20:36,252 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-17 09:42:19,219 - INFO - Starting companies info quering
+2026-01-17 09:42:19,222 - INFO - Loading input file: data/company_info.csv
+2026-01-17 09:42:19,608 - INFO - Total rows in input CSV: 145487
+2026-01-17 09:42:21,732 - INFO - Loaded existing data with 476021 records
+2026-01-17 10:04:14,822 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-17 10:04:14,822 - INFO - Scraping completed
+2026-01-17 10:04:14,822 - INFO - Total processed: 57791
+2026-01-17 10:04:14,822 - INFO - Skipped (already exist): 47790
+2026-01-17 10:04:14,822 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-18 11:56:57,403 - INFO - Starting companies info quering
+2026-01-18 11:56:57,405 - INFO - Loading input file: data/company_info.csv
+2026-01-18 11:56:57,902 - INFO - Total rows in input CSV: 145487
+2026-01-18 11:57:00,454 - INFO - Loaded existing data with 524809 records
+2026-01-18 12:19:47,571 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-18 12:19:47,573 - INFO - Scraping completed
+2026-01-18 12:19:47,574 - INFO - Total processed: 62791
+2026-01-18 12:19:47,574 - INFO - Skipped (already exist): 52790
+2026-01-18 12:19:47,574 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-19 07:27:09,586 - INFO - Starting companies info quering
+2026-01-19 07:27:09,586 - INFO - Loading input file: data/company_info.csv
+2026-01-19 07:27:09,966 - INFO - Total rows in input CSV: 145487
+2026-01-19 07:27:12,371 - INFO - Loaded existing data with 570894 records
+2026-01-19 07:50:06,614 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-19 07:50:06,614 - INFO - Scraping completed
+2026-01-19 07:50:06,614 - INFO - Total processed: 67845
+2026-01-19 07:50:06,614 - INFO - Skipped (already exist): 57844
+2026-01-19 07:50:06,614 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-20 08:36:07,668 - INFO - Starting companies info quering
+2026-01-20 08:36:07,668 - INFO - Loading input file: data/company_info.csv
+2026-01-20 08:36:08,168 - INFO - Total rows in input CSV: 145487
+2026-01-20 08:36:11,532 - INFO - Loaded existing data with 618757 records
+2026-01-20 09:00:06,593 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-20 09:00:06,593 - INFO - Scraping completed
+2026-01-20 09:00:06,593 - INFO - Total processed: 72845
+2026-01-20 09:00:06,593 - INFO - Skipped (already exist): 62844
+2026-01-20 09:00:06,593 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-21 09:15:11,931 - INFO - Starting companies info quering
+2026-01-21 09:15:11,935 - INFO - Loading input file: data/company_info.csv
+2026-01-21 09:15:12,326 - INFO - Total rows in input CSV: 145487
+2026-01-21 09:15:15,683 - INFO - Loaded existing data with 669548 records
+2026-01-21 09:39:56,213 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-21 09:39:56,213 - INFO - Scraping completed
+2026-01-21 09:39:56,213 - INFO - Total processed: 77845
+2026-01-21 09:39:56,213 - INFO - Skipped (already exist): 67844
+2026-01-21 09:39:56,213 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-22 08:17:11,656 - INFO - Starting companies info quering
+2026-01-22 08:17:11,656 - INFO - Loading input file: data/company_info.csv
+2026-01-22 08:17:12,062 - INFO - Total rows in input CSV: 145487
+2026-01-22 08:17:15,276 - INFO - Loaded existing data with 719121 records
+2026-01-22 08:43:36,615 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-22 08:43:36,616 - INFO - Scraping completed
+2026-01-22 08:43:36,617 - INFO - Total processed: 82845
+2026-01-22 08:43:36,617 - INFO - Skipped (already exist): 72844
+2026-01-22 08:43:36,618 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-23 00:53:00,082 - INFO - Starting companies info quering
+2026-01-23 00:53:00,082 - INFO - Loading input file: data/company_info.csv
+2026-01-23 00:53:00,571 - INFO - Total rows in input CSV: 145487
+2026-01-23 00:53:04,068 - INFO - Loaded existing data with 768049 records
+2026-01-23 00:54:27,861 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-23 00:54:27,862 - INFO - Scraping completed
+2026-01-23 00:54:27,862 - INFO - Total processed: 77845
+2026-01-23 00:54:27,862 - INFO - Skipped (already exist): 77844
+2026-01-23 00:54:27,862 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-26 16:17:49,759 - INFO - Starting companies info quering
+2026-01-26 16:17:49,759 - INFO - Loading input file: data/company_info.csv
+2026-01-26 16:17:50,259 - INFO - Total rows in input CSV: 145487
+2026-01-26 16:17:55,212 - INFO - Loaded existing data with 768049 records
+2026-01-26 16:45:12,939 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-26 16:45:12,939 - INFO - Scraping completed
+2026-01-26 16:45:12,954 - INFO - Total processed: 87849
+2026-01-26 16:45:12,954 - INFO - Skipped (already exist): 77848
+2026-01-26 16:45:12,954 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-27 00:11:01,201 - INFO - Starting companies info quering
+2026-01-27 00:11:01,201 - INFO - Loading input file: data/company_info.csv
+2026-01-27 00:11:01,533 - INFO - Total rows in input CSV: 145487
+2026-01-27 00:11:04,728 - INFO - Loaded existing data with 816454 records
+2026-01-27 00:12:36,767 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-27 00:12:36,767 - INFO - Scraping completed
+2026-01-27 00:12:36,767 - INFO - Total processed: 82849
+2026-01-27 00:12:36,782 - INFO - Skipped (already exist): 82848
+2026-01-27 00:12:36,782 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+                                                                  2026-01-28 08:21:58,984 - INFO - Starting companies info quering
+2026-01-28 08:21:58,984 - INFO - Loading input file: data/company_info.csv
+2026-01-28 08:21:59,454 - INFO - Total rows in input CSV: 145487
+2026-01-28 08:22:04,057 - INFO - Loaded existing data with 870183 records
+2026-01-28 08:51:16,860 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-28 08:51:16,860 - INFO - Scraping completed
+2026-01-28 08:51:16,860 - INFO - Total processed: 98326
+2026-01-28 08:51:16,860 - INFO - Skipped (already exist): 88325
+2026-01-28 08:51:16,860 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-30 18:46:04,780 - INFO - Starting companies info quering
+2026-01-30 18:46:04,815 - INFO - Loading input file: data/company_info.csv
+2026-01-30 18:46:05,462 - INFO - Total rows in input CSV: 145487
+2026-01-30 18:46:10,528 - INFO - Loaded existing data with 922083 records
+2026-01-30 19:14:37,941 - ERROR - API rate limit exceeded (429) - stopping
+2026-01-30 19:14:37,941 - INFO - Scraping completed
+2026-01-30 19:14:37,941 - INFO - Total processed: 103347
+2026-01-30 19:14:37,941 - INFO - Skipped (already exist): 93346
+2026-01-30 19:14:37,941 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-01-31 10:30:17,377 - INFO - Starting companies info quering
+2026-01-31 10:30:17,377 - INFO - Loading input file: data/company_info.csv
+2026-01-31 10:30:17,818 - INFO - Total rows in input CSV: 145487
+2026-01-31 10:30:23,640 - INFO - Loaded existing data with 964167 records
+2026-02-01 12:31:22,657 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-01 12:31:22,660 - INFO - Scraping completed
+2026-02-01 12:31:22,661 - INFO - Total processed: 111237
+2026-02-01 12:31:22,661 - INFO - Skipped (already exist): 98362
+2026-02-01 12:31:22,662 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-01 12:31:27,855 - INFO - Starting companies info quering
+2026-02-01 12:31:27,856 - INFO - Loading input file: data/company_info.csv
+2026-02-01 12:31:28,288 - INFO - Total rows in input CSV: 145487
+2026-02-01 12:31:34,670 - INFO - Loaded existing data with 1029486 records
+2026-02-01 12:34:10,402 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-01 12:34:10,404 - INFO - Scraping completed
+2026-02-01 12:34:10,405 - INFO - Total processed: 104800
+2026-02-01 12:34:10,405 - INFO - Skipped (already exist): 104799
+2026-02-01 12:34:10,406 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-02 07:13:52,919 - INFO - Starting companies info quering
+2026-02-02 07:13:52,919 - INFO - Loading input file: data/company_info.csv
+2026-02-02 07:13:53,352 - INFO - Total rows in input CSV: 145487
+2026-02-02 07:13:58,257 - INFO - Loaded existing data with 1029486 records
+2026-02-02 07:47:12,785 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-02 07:47:12,785 - INFO - Scraping completed
+2026-02-02 07:47:12,785 - INFO - Total processed: 114800
+2026-02-02 07:47:12,785 - INFO - Skipped (already exist): 104799
+2026-02-02 07:47:12,785 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-02 23:54:41,334 - INFO - Starting companies info quering
+2026-02-02 23:54:41,338 - INFO - Loading input file: data/company_info.csv
+2026-02-02 23:54:41,889 - INFO - Total rows in input CSV: 145487
+2026-02-02 23:54:50,389 - INFO - Loaded existing data with 1080596 records
+2026-02-02 23:58:39,397 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-02 23:58:39,397 - INFO - Scraping completed
+2026-02-02 23:58:39,397 - INFO - Total processed: 109800
+2026-02-02 23:58:39,404 - INFO - Skipped (already exist): 109799
+2026-02-02 23:58:39,405 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-03 08:32:33,027 - INFO - Starting companies info quering
+2026-02-03 08:32:33,034 - INFO - Loading input file: data/company_info.csv
+2026-02-03 08:32:33,444 - INFO - Total rows in input CSV: 145487
+2026-02-03 08:32:39,328 - INFO - Loaded existing data with 1080596 records
+2026-02-03 09:09:12,169 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-03 09:09:12,171 - INFO - Scraping completed
+2026-02-03 09:09:12,171 - INFO - Total processed: 119803
+2026-02-03 09:09:12,172 - INFO - Skipped (already exist): 109802
+2026-02-03 09:09:12,172 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-04 23:02:15,042 - INFO - Starting companies info quering
+2026-02-04 23:02:15,095 - INFO - Loading input file: data/company_info.csv
+2026-02-04 23:02:16,295 - INFO - Total rows in input CSV: 145487
+2026-02-04 23:02:28,161 - INFO - Loaded existing data with 1131026 records
+2026-02-04 23:38:54,028 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-04 23:38:54,028 - INFO - Scraping completed
+2026-02-04 23:38:54,028 - INFO - Total processed: 124827
+2026-02-04 23:38:54,028 - INFO - Skipped (already exist): 114826
+2026-02-04 23:38:54,028 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-05 07:42:15,357 - INFO - Starting companies info quering
+2026-02-05 07:42:15,373 - INFO - Loading input file: data/company_info.csv
+2026-02-05 07:42:15,769 - INFO - Total rows in input CSV: 145487
+2026-02-05 07:42:21,965 - INFO - Loaded existing data with 1181099 records
+2026-02-05 08:19:58,822 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-05 08:19:58,824 - INFO - Scraping completed
+2026-02-05 08:19:58,825 - INFO - Total processed: 130528
+2026-02-05 08:19:58,825 - INFO - Skipped (already exist): 120527
+2026-02-05 08:19:58,825 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-06 08:21:57,034 - INFO - Starting companies info quering
+2026-02-06 08:21:57,034 - INFO - Loading input file: data/company_info.csv
+2026-02-06 08:21:57,387 - INFO - Total rows in input CSV: 145487
+2026-02-06 08:22:03,768 - INFO - Loaded existing data with 1231593 records
+2026-02-06 09:00:55,837 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-06 09:00:55,838 - INFO - Scraping completed
+2026-02-06 09:00:55,839 - INFO - Total processed: 135537
+2026-02-06 09:00:55,839 - INFO - Skipped (already exist): 125536
+2026-02-06 09:00:55,839 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-08 00:11:32,807 - INFO - Starting companies info quering
+2026-02-08 00:11:32,816 - INFO - Loading input file: data/company_info.csv
+2026-02-08 00:11:33,592 - INFO - Total rows in input CSV: 145487
+2026-02-08 00:11:46,362 - INFO - Loaded existing data with 1286363 records
+2026-02-08 01:43:09,673 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-08 01:43:09,688 - INFO - Scraping completed
+2026-02-08 01:43:09,688 - INFO - Total processed: 150416
+2026-02-08 01:43:09,688 - INFO - Skipped (already exist): 130545
+2026-02-08 01:43:09,688 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-09 10:05:40,763 - INFO - Starting companies info quering
+2026-02-09 10:05:40,768 - INFO - Loading input file: data/company_info.csv
+2026-02-09 10:05:41,216 - INFO - Total rows in input CSV: 145487
+2026-02-09 10:05:47,413 - INFO - Loaded existing data with 1389896 records
+2026-02-09 10:40:23,283 - ERROR - API rate limit exceeded (429) - stopping
+2026-02-09 10:40:23,283 - INFO - Scraping completed
+2026-02-09 10:40:23,283 - INFO - Total processed: 150482
+2026-02-09 10:40:23,283 - INFO - Skipped (already exist): 140481
+2026-02-09 10:40:23,283 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-02-13 09:10:07,798 - INFO - Starting companies info quering
+2026-02-13 09:10:07,798 - INFO - Loading input file: data/company_info.csv
+2026-02-13 09:10:08,189 - INFO - Total rows in input CSV: 145487
+2026-02-13 09:10:15,518 - INFO - Loaded existing data with 1436217 records
+2026-02-13 09:16:34,998 - INFO - Scraping completed
+2026-02-13 09:16:34,999 - INFO - Total processed: 145493
+2026-02-13 09:16:34,999 - INFO - Skipped (already exist): 145481
+2026-02-13 09:16:34,999 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
