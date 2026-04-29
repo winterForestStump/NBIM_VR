@@ -16,7 +16,7 @@ Since there is a day limit of  5000 API calls, I've created scripts for data cra
 
 ### Data
 The following repo contains table data with voting records gathered from the API. 
-The `data` folder contains the resulting datasets. The (`data\meetings_info.csv`)[data\meetings_info.csv] is the final CSV file with all voting records up to January 7, 2026. The file has 16 columns and 1436265 entries (every row/entry is a vote for a separate ,eeting question). The fund doesn't provide output interpretation (the API output format - nested dictionary) so the explanaition may be not 100% correct. Columns:
+The `data` folder contains the resulting datasets. The (`data/meetings_info.csv`)[data/meetings_info.csv] is the final CSV file with all voting records up to January 7, 2026. The file has 16 columns and 1436265 entries (every row/entry is a vote for a separate ,eeting question). The fund doesn't provide output interpretation (the API output format - nested dictionary) so the explanaition may be not 100% correct. Columns:
 * companyId - the fund's inner id number (not very useful)
 * companyName - the company name
 * companyTicker - stock ticker symbol
@@ -36,16 +36,16 @@ The `data` folder contains the resulting datasets. The (`data\meetings_info.csv`
 
 The voting results are also available on the following fund's (webpage)[https://www.nbim.no/en/responsible-investment/voting/our-voting-records/] separtely ffor every company (you need either the name or the ticker).
 
-The (`data\consolidated_equity_holdings.csv`)[data\consolidated_equity_holdings.csv] is the consolidated CSV file with all funds equity holdings at the end of each year. The `equity_holdings` folder contains investment's market value in equity original files (each file for one year) for 1999-2025 years (as of 31.12) from [fund's website](https://www.nbim.no/en/investments/all-investments). The (consolidation script)[src\consolidate_equity_holdings.py].
+The (`data/consolidated_equity_holdings.csv`)[data/consolidated_equity_holdings.csv] is the consolidated CSV file with all funds equity holdings at the end of each year. The `equity_holdings` folder contains investment's market value in equity original files (each file for one year) for 1999-2025 years (as of 31.12) from [fund's website](https://www.nbim.no/en/investments/all-investments). The (consolidation script)[src/consolidate_equity_holdings.py].
 
 The `examples` folder contains some EXCEL examples from the `meetings_info.csv` file:
-- (`first_100_entries.xlsx`)[examples\first_100_entries.xlsx] - first 100 entries (sorted by region) in EXCEL format
-- (`votes_against.xlsx`)[examples\votes_against.xlsx] - is the collection of all AGAINST votes on the boards' proposals.
+- (`first_100_entries.xlsx`)[examples/first_100_entries.xlsx] - first 100 entries (sorted by region) in EXCEL format
+- (`votes_against.xlsx`)[examples/votes_against.xlsx] - is the collection of all AGAINST votes on the boards' proposals.
 
-Some company names were not processed, and their names are saved in the (`data/failed_names.csv`)[data\failed_names.csv] file.
+Some company names were not processed, and their names are saved in the (`data/failed_names.csv`)[data/failed_names.csv] file.
 
-UPDATE - April 13, 2026 - script for tickers request added, new list tickers.csv is created
-UPDATE - April 29, 2026 - scripts for filtering tickers and requesting meetings info from tickers_info.csv file added.
+* UPDATE - April 13, 2026 - script for tickers request added, new list tickers.csv is created
+* UPDATE - April 29, 2026 - scripts for filtering tickers and requesting meetings info from tickers_info.csv file added.
 
 ### Disclosure 1.0
 This is an educational project and by no means should it be regarded as fully correct. No reliance should be placed on this information or its accuracy. 
