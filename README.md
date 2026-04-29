@@ -8,7 +8,10 @@ NBIM publishes its voting instructions via an [API](https://www.nbim.no/en/respo
 ### Scripts
 Since there is a day limit of  5000 API calls, I've created scripts for data crawling:
 * `src\company_list_request.py` asks '/v1/ds/companies' end for company names
+* `src\ticker_list_request.py` asks '/v1/ds/tickers' end for tickers
 * `src\company_info_query.py` collects all company's meetings ids and dates from '/v1/query/company/' end
+* `src\ticker_info_query.py` collects all ticker's meetings ids and dates from '/v1/query/ticker/' end
+* `src\ticker_filter.py` filter out already existing isins in company_info.csv from tickers_info.csv file
 * `src\meetings_info_query.py` collects the votes for every question from the meetings ('/v1/query/meeting/' end)
 
 ### Data
@@ -39,7 +42,10 @@ The `examples` folder contains some EXCEL examples from the `meetings_info.csv` 
 - (`first_100_entries.xlsx`)[examples\first_100_entries.xlsx] - first 100 entries (sorted by region) in EXCEL format
 - (`votes_against.xlsx`)[examples\votes_against.xlsx] - is the collection of all AGAINST votes on the boards' proposals.
 
-Some company names were not processed, and their names are saved in the (`data/failed_names.csv`)[data\failed_names.csv] file. Currently I'm trying to fugure out how to solve it using the ticker quiery. 
+Some company names were not processed, and their names are saved in the (`data/failed_names.csv`)[data\failed_names.csv] file.
+
+UPDATE - April 13, 2026 - script for tickers request added, new list tickers.csv is created
+UPDATE - April 29, 2026 - scripts for filtering tickers and requesting meetings info from tickers_info.csv file added.
 
 ### Disclosure 1.0
 This is an educational project and by no means should it be regarded as fully correct. No reliance should be placed on this information or its accuracy. 

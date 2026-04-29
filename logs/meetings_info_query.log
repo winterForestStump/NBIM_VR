@@ -300,3 +300,11 @@
 2026-02-13 09:16:34,999 - INFO - Total processed: 145493
 2026-02-13 09:16:34,999 - INFO - Skipped (already exist): 145481
 2026-02-13 09:16:34,999 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv
+2026-04-29 23:03:22,793 - INFO - Starting info quering
+2026-04-29 23:03:22,795 - INFO - Loading input file: data/tickers_info.csv
+2026-04-29 23:03:22,799 - INFO - Total rows in input CSV: 1948
+2026-04-29 23:03:28,820 - INFO - Loaded existing data with 1436265 records
+2026-04-29 23:12:11,445 - INFO - Scraping completed
+2026-04-29 23:12:11,445 - INFO - Total processed: 3279
+2026-04-29 23:12:11,446 - INFO - Skipped (already exist): 617
+2026-04-29 23:12:11,446 - INFO - Failed: 0, meetings ids saved to data/failed_meetings.csv

@@ -11,8 +11,9 @@ load_dotenv()
 nbim_api = os.getenv('NBIM_API_KEY')
 url = 'https://vd.a.nbim.no'
 header = {'x-api-key': nbim_api}
-meetings_info = '/v1/query/meeting/' ## Meetings info
-input_file = 'data/company_info.csv'
+meetings_info = '/v1/query/meeting/' 
+input_file = 'data/company_info.csv'         # To request meeting info from the company_info file
+input_file_tickers = 'data/tickers_info.csv' # To request meeting info from the ticker_info file
 output_file = 'data/meetings_info.csv'
 failed_names = 'data/failed_meetings.csv'
 
@@ -48,8 +49,8 @@ def should_scrape(meeting_id: str, existing_df: pd.DataFrame) -> bool:
         return not mask.any()
            
 def query_meetings_info(output_file):
-    logger.info(f"Loading input file: {input_file}")
-    input_df = pd.read_csv(input_file)
+    logger.info(f"Loading input file: {input_file_tickers}")
+    input_df = pd.read_csv(input_file_tickers)
     logger.info(f"Total rows in input CSV: {len(input_df)}")
 
     # Load existing data if available
@@ -60,7 +61,7 @@ def query_meetings_info(output_file):
     processed_count = 0
     failed_meetings = []
 
-    for index, row in tqdm(input_df.iterrows(), total=len(input_df), desc="Processing companies info"):
+    for index, row in tqdm(input_df.iterrows(), total=len(input_df), desc="Processing info"):
         meeting_id = row.get('meetingId', '')
         
         processed_count += 1
@@ -129,7 +130,7 @@ def query_meetings_info(output_file):
         failed_companies_df.to_csv(failed_names, mode='a', header=False, index=False, encoding='utf-8')
 
 def main():
-    logger.info("Starting companies info quering")
+    logger.info("Starting info quering")
     query_meetings_info(output_file)
 
 if __name__ == "__main__":
